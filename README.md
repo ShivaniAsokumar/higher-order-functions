@@ -1,6 +1,5 @@
-##Higher-Order Functions
+## Higher-Order Functions
 
-###JavaScript Practice
-
+#### JavaScript Practice
 
 Instead of using the built-in array methods, I implemented some of my own methods.  
